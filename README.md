@@ -4,7 +4,6 @@
 
 #### Video
 
-[Watch the Video](https://www.youtube.com/watch?v=Az0z6aXNLEQ):
 [![Watch the Video](https://img.youtube.com/vi/Az0z6aXNLEQ/hqdefault.jpg)](https://www.youtube.com/watch?v=Az0z6aXNLEQ)
 
 [Watch the Video](https://www.youtube.com/watch?v=Az0z6aXNLEQ)
