@@ -1,8 +1,13 @@
 # Storyboarding and Prototyping for VR
 
-## Presentation Video
+## Presentation
 
-[![Prototyping VR](https://www.youtube.com/watch?v=Az0z6aXNLEQ/0.jpg)](https://www.youtube.com/watch?v=Az0z6aXNLEQ "Prototyping VR")
+[Watch the Video](https://www.youtube.com/watch?v=Az0z6aXNLEQ)
+
+[![Watch the Video](https://img.youtube.com/vi/Az0z6aXNLEQ/hqdefault.jpg)](https://www.youtube.com/watch?v=Az0z6aXNLEQ)
+
+[Slides](https://docs.google.com/presentation/d/1H1BBZSYgEewr3RfNVpV-Vk-tUvdJMyJDXQYctZxF8Gc/edit?usp=sharing)
+
 
 ## Resources
 
